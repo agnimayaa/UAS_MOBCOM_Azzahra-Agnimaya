@@ -13,8 +13,7 @@ database langsung pada device android masing-masing pengguna.
 
 FITUR-FITUR
 
-1. Database SQLite
-2. Edit (Update): Merubah item buku yang sudah ada seperti nama atau ketersediaan buku
-3. Tambah Buku (Create): Menambah item buku ke dalam perpustakaan
-4. Delete (Delete): Menghapuskan item buku yang tidak akan ada lagi di perpustakaan
-5. Floating Action Button: untuk berpindah halaman ke halaman tambah buku
+1. Edit (Update): Merubah item buku yang sudah ada seperti nama atau ketersediaan buku
+2. Tambah Buku (Create): Menambah item buku ke dalam perpustakaan
+3. Delete (Delete): Menghapuskan item buku yang tidak akan ada lagi di perpustakaan
+4. Floating Action Button: untuk berpindah page tambah buku
