@@ -6,7 +6,8 @@ NIM : 1313621048
 ![WhatsApp Image 2024-01-08 at 18 02 30_e57cb8a6](https://github.com/agnimayaa/UAS_MOBCOM_Azzahra-Agnimaya/assets/94313497/47a9cf86-d4d8-4476-887b-ca44b1577c06)
 
 Latar Belakang 
-ini merupakan aplikasi note, untuk data suatu pembelian dimana nanti pada list akan tertera keterangan subjek.
+
+Ini merupakan aplikasi note, untuk data suatu pembelian dimana nanti pada list akan tertera keterangan subjek.
 
 FITUR-FITUR
 
@@ -14,3 +15,5 @@ FITUR-FITUR
 2. Edit (Update): Merubah data yang sudah ada seperti keterangan atau harga
 3. Delete (Delete): Menghapuskan data yang di list
 4. view
+
+Link Youtube https://youtu.be/t85lZ_tFZvs
