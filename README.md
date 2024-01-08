@@ -1,19 +1,14 @@
 UAS Mobile Computing
 Nama: Azzahra Agnimaya
 NIM : 1313621048
-<img width="960" alt="image" src="https://github.com/agnimayaa/UAS_MOBCOM_Azzahra-Agnimaya/assets/94313497/c6b373db-07f5-4382-8d83-c94d8a0d9c2a">
-<img width="960" alt="image" src="https://github.com/agnimayaa/UAS_MOBCOM_Azzahra-Agnimaya/assets/94313497/32ee6380-72be-426b-ad10-4b10536fc555">
-<img width="960" alt="image" src="https://github.com/agnimayaa/UAS_MOBCOM_Azzahra-Agnimaya/assets/94313497/a2d6dd2c-d00c-475c-bc2f-147a71490301">
+![WhatsApp Image 2024-01-08 at 18 02 30_c050e558](https://github.com/agnimayaa/UAS_MOBCOM_Azzahra-Agnimaya/assets/94313497/880f5758-b79d-424f-b491-488394dafe6c)
 
 Latar Belakang 
-Sistem pendataan buku yang cukup high value dan terkesan rumit,
-melatar belakangi saya untuk membuat pendataan buku perpustakaan 
-yang mudah digunakanserta ramah dikantong, dengan menggunakan 
-database langsung pada device android masing-masing pengguna.
+ini merupakan aplikasi note, untuk data suatu pembelian dimana nanti pada list akan tertera keterangan subjek.
 
 FITUR-FITUR
 
-1. Edit (Update): Merubah item buku yang sudah ada seperti nama atau ketersediaan buku
-2. Tambah Buku (Create): Menambah item buku ke dalam perpustakaan
-3. Delete (Delete): Menghapuskan item buku yang tidak akan ada lagi di perpustakaan
-4. Floating Action Button: untuk berpindah page tambah buku
+1. Tambah  (Create): Menambah item data ke 
+2. Edit (Update): Merubah data yang sudah ada seperti keterangan atau harga
+3. Delete (Delete): Menghapuskan data yang di list
+4. view
